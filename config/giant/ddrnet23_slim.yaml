@@ -1,0 +1,6 @@
+OUTPUT_DIR: './output/'
+IMAGE_SIZE:
+- 2048
+- 1024
+BASE_SIZE: 2048
+MODEL_FILE: "./models/ddrnet23_slim_lab2_2class.pb"
